@@ -8,3 +8,10 @@ development skills through daily practice.
 - Created my first repository.
 - Learned Git basics.
 - Started my open-source journey.
+## Day 1 - My GSSoC Journey
+
+- Started my open-source journey.
+- Learned Git clone.
+- Practiced Git status.
+- Learned Git push.
+- Created my first contribution.
